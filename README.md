@@ -1,4 +1,4 @@
-# be-the-hero, Passo a Passo de execução
+# be-the-hero, Passo a Passo de execução!
 Aplicativo desenvolvido na semana Omnistack 11
 
 Tecnologias utilizadas: NodeJS, ReactJS e React Native.
