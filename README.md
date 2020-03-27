@@ -1,7 +1,7 @@
 # be-the-hero
 Aplicativo desenvolvido na semana Omnistack 11
 
-Apliação desenvolvida com NodeJS, React JS e Reac Native.
+Tecnologias utilizadas: NodeJS, React JS e React Native.
 
 Para executar a aplicação WEB:
 
