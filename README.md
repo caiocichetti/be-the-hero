@@ -12,7 +12,7 @@
 </ul>
 
 <hgroup>
-<h3>📘 Projeto</h3>
+<h3>📘 O Projeto</h3>
   
 Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.
 </hgroup>
