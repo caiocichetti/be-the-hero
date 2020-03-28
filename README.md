@@ -1,11 +1,22 @@
-# be-the-hero, Passo a Passo de execução!
+# be-the-hero
 Aplicativo desenvolvido na semana Omnistack 11
 
-Tecnologias utilizadas: NodeJS, ReactJS e React Native.
+🚀 Tecnologias usadas
+<ul>
+  <li>Node.js</li>
+  <li>ReactJS</li> 
+  <li>React Native</li>
+  <li>Expo</li>
+<ul>
+📘 Projeto
+<p>Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.</p>
 
-Para executar a aplicação WEB:
+🎓 Ministrado por:
+Diego Fernandes CTO Rocketseat
 
-Passo 1: Abra a pasta "backend" dentro do terminal e rode o comando npm install(esse comando só precisa ser executado quando você acabou de baixar os arquivos do Github, pois ele instala o pacote node_modules), após finalizar digite o comando  npm start e deixe executando.
+💾 Para executar a aplicação WEB:
+
+<h3>Passo 1:</h3> Abra a pasta "backend" dentro do terminal e rode o comando npm install(esse comando só precisa ser executado quando você acabou de baixar os arquivos do Github, pois ele instala o pacote node_modules), após finalizar digite o comando  npm start e deixe executando.
 
 Passo 2: Abra a pasta "frontend" dentro de outra página do terminal e rode o comando npm install(esse comando só precisa ser executado quando você acabou de baixar os arquivos do Github, pois ele instala o pacote node_modules), após finalizar digite o comando  npm start e deixe executando.
 
