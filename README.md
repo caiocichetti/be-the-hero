@@ -1,6 +1,4 @@
-<h1>Be-The-Hero
-  
-![logo](https://user-images.githubusercontent.com/58996814/77831621-117bde00-710f-11ea-9296-f80a5d0898e4.png)
+ ![logo](https://user-images.githubusercontent.com/58996814/77831621-117bde00-710f-11ea-9296-f80a5d0898e4.png)
 
 <h2>Aplicativo desenvolvido na semana Omnistack 11</h2>
   
