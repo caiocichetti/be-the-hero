@@ -1,6 +1,8 @@
  ![logo](https://user-images.githubusercontent.com/58996814/77831621-117bde00-710f-11ea-9296-f80a5d0898e4.png)
 
 # Aplicativo desenvolvido na semana Omnistack 11
+
+[made by rocketseat](https://rocketseat.com.br/)
   
 ### 🚀 Tecnologias utilizadas</h3>
   
