@@ -21,7 +21,7 @@ Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituiç�
 
 Diego Fernandes
 
-### Instalação
+### 👨🏻‍💻 Instalação:
 
 clone o projeto em seu computador e em seguida execute:
 
@@ -38,7 +38,7 @@ Assim que o processo terminar, automaticamente será aberta no seu navegador a p
 
 Para testar o Mobile do React Native, primeiro coloque o endereço do seu servidor (ou computador) no arquivo src/services/api.js, e depois execute os comandos:
 
-### 👨‍💻 NÃO é preciso executar a linha de baixo caso ja tenha o Expo (CLI) instalado!
+#### NÃO é preciso executar a linha de baixo caso ja tenha o Expo (CLI) instalado!
 npm global add install expo-cli
 cd mobile
 npm install
