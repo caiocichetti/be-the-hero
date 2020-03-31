@@ -4,15 +4,17 @@
   
 ### 🚀 Tecnologias utilizadas</h3>
   
-<ul>
-<li>Node.js</li> 
-<li>ReactJS</li> 
-<li>React Native</li> 
-<li>Expo</li> 
-</ul>
 
-<hgroup>
-<h3>📘 O Projeto</h3>
+* Node.js
+
+* ReactJS
+
+* React Native
+
+* Expo
+
+
+### 📘 O Projeto<
   
 Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.
 </hgroup>
