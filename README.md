@@ -14,12 +14,11 @@
 * Expo
 
 
-### 📘 O Projeto<
+### 📘 O Projeto
   
 Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.
-</hgroup>
 
-<h3>🎓 Ministrado por:</h3>
+### 🎓 Ministrado por:
 
 Diego Fernandes
 
@@ -27,9 +26,9 @@ Diego Fernandes
 
 clone o projeto em seu computador e em seguida execute:
 
-cd backend
-npm install
-npm start
+* cd backend
+* npm install
+* npm start
 
 Para iniciar o Frontend do React utilize os comandos:
 
