@@ -13,6 +13,7 @@
 
 * Expo
 
+![bethehero](https://user-images.githubusercontent.com/58996814/80896181-27f2f780-8cc2-11ea-90ad-525a93ab5c27.png)
 
 ### 📘 O Projeto
   
