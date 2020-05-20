@@ -1,9 +1,15 @@
 ![logo](https://user-images.githubusercontent.com/58996814/77831621-117bde00-710f-11ea-9296-f80a5d0898e4.png)
   
-### 🚀 Tecnologias utilizadas</h3>
-  
+![GitHub language count](https://img.shields.io/github/languages/count/caiocichetti/be-the-hero)
+![GitHub repo size](https://img.shields.io/github/repo-size/caiocichetti/be-the-hero)
+![GitHub last commit](https://img.shields.io/github/last-commit/caiocichetti/be-the-hero)
+![Packagist License](https://img.shields.io/packagist/l/caiocichetti/be-the-hero)
 
-* Node.js
+
+
+### 🚀 Tecnologias utilizadas
+ 
+ * Node.js
 
 * ReactJS
 
