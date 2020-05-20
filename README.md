@@ -76,7 +76,3 @@ Para testar o Mobile do React Native, primeiro coloque o endereço do seu servid
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página localhost:19002. Conecte seu emulador, ou teste o aplicativo por LAN: baixe o aplicativo Expo da Play Store ou App Store e em seguida escaneie o código QR.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](github/license/caiocichetti/be-the-hero) para mais detalhes.
