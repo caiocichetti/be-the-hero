@@ -44,7 +44,7 @@ Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituiç�
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-## 👨🏻‍💻 Instalação
+## 👨🏻‍💻 Instalacao
 
 clone o projeto em seu computador e em seguida execute:
 
