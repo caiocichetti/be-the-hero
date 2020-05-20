@@ -79,4 +79,4 @@ Assim que o processo terminar, automaticamente será aberta no seu navegador a p
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](github/license/caiocichetti/be-the-hero) para mais detalhes.
