@@ -11,10 +11,22 @@
   <img src="https://img.shields.io/github/license/caiocichetti/be-the-hero" alt="GitHub" /> 
 </p>
 
- 
-![bethehero](https://user-images.githubusercontent.com/58996814/80896181-27f2f780-8cc2-11ea-90ad-525a93ab5c27.png)
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### 🚀 Tecnologias utilizadas
+<p align="center">
+  <img alt="BeTheHero" 
+       src="https://user-images.githubusercontent.com/58996814/80896181-27f2f780-8cc2-11ea-90ad-525a93ab5c27.png" 
+       width="100%">
+</p>
+
+
+## :rocket: Tecnologias
  
 * Node.js
 
@@ -24,15 +36,15 @@
 
 * Expo
 
-### 📘 O Projeto
+## 💻 Projeto
   
 Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.
 
-### 🎓 Ministrado por:
+## 🔖 Layout
 
-Diego Fernandes
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-### 👨🏻‍💻 Instalação:
+## 👨🏻‍💻 Instalação
 
 clone o projeto em seu computador e em seguida execute:
 
