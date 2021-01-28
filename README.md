@@ -28,11 +28,8 @@
 ## :rocket: Tecnologias
  
 * Node.js
-
 * ReactJS
-
 * React Native
-
 * Expo
 
 ## 💻 Projeto
